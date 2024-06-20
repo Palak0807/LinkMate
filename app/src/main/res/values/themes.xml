@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RecycleView" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. --><item name="colorPrimary">#673AB7</item>
+    </style>
+
+    <style name="Theme.RecycleView" parent="Base.Theme.RecycleView" />
+</resources>
